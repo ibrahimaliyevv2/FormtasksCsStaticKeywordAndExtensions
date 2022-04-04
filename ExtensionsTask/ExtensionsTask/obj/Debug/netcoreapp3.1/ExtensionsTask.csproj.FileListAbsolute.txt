@@ -1,0 +1,17 @@
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsStaticKeywordAndExtensions\ExtensionsTask\ExtensionsTask\obj\Debug\netcoreapp3.1\ExtensionsTask.csproj.AssemblyReference.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsStaticKeywordAndExtensions\ExtensionsTask\ExtensionsTask\obj\Debug\netcoreapp3.1\ExtensionsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsStaticKeywordAndExtensions\ExtensionsTask\ExtensionsTask\obj\Debug\netcoreapp3.1\ExtensionsTask.AssemblyInfoInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsStaticKeywordAndExtensions\ExtensionsTask\ExtensionsTask\obj\Debug\netcoreapp3.1\ExtensionsTask.AssemblyInfo.cs
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsStaticKeywordAndExtensions\ExtensionsTask\ExtensionsTask\obj\Debug\netcoreapp3.1\ExtensionsTask.csproj.CoreCompileInputs.cache
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsStaticKeywordAndExtensions\ExtensionsTask\ExtensionsTask\bin\Debug\netcoreapp3.1\ExtensionsTask.exe
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsStaticKeywordAndExtensions\ExtensionsTask\ExtensionsTask\bin\Debug\netcoreapp3.1\ExtensionsTask.deps.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsStaticKeywordAndExtensions\ExtensionsTask\ExtensionsTask\bin\Debug\netcoreapp3.1\ExtensionsTask.runtimeconfig.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsStaticKeywordAndExtensions\ExtensionsTask\ExtensionsTask\bin\Debug\netcoreapp3.1\ExtensionsTask.runtimeconfig.dev.json
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsStaticKeywordAndExtensions\ExtensionsTask\ExtensionsTask\bin\Debug\netcoreapp3.1\ExtensionsTask.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsStaticKeywordAndExtensions\ExtensionsTask\ExtensionsTask\bin\Debug\netcoreapp3.1\ExtensionsTask.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsStaticKeywordAndExtensions\ExtensionsTask\ExtensionsTask\bin\Debug\netcoreapp3.1\Extensions.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsStaticKeywordAndExtensions\ExtensionsTask\ExtensionsTask\bin\Debug\netcoreapp3.1\Extensions.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsStaticKeywordAndExtensions\ExtensionsTask\ExtensionsTask\obj\Debug\netcoreapp3.1\ExtensionsTask.csproj.CopyComplete
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsStaticKeywordAndExtensions\ExtensionsTask\ExtensionsTask\obj\Debug\netcoreapp3.1\ExtensionsTask.dll
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsStaticKeywordAndExtensions\ExtensionsTask\ExtensionsTask\obj\Debug\netcoreapp3.1\ExtensionsTask.pdb
+C:\Users\ibrahimaliyevv2\source\repos\FormtasksCsStaticKeywordAndExtensions\ExtensionsTask\ExtensionsTask\obj\Debug\netcoreapp3.1\ExtensionsTask.genruntimeconfig.cache
